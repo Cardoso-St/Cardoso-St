@@ -1,5 +1,4 @@
 <!-- Título centralizado -->
-<h1 align="center">👋 Olá, eu sou o Steven!</h1>
 <h3 align="center">💻 Estudante de TI | 🤖 Apaixonado por tecnologia | 🚀 Futuro desenvolvedor</h3>
 
 ---

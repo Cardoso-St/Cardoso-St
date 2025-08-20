@@ -12,6 +12,14 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cardoso-St&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-St&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
+</p>
+
+---
+
 ## 🛠 Tecnologias que utilizo
 <p align="center">
   <img alt="HTML" src="https://skillicons.dev/icons?i=html" width="60" height="60"/>
@@ -24,14 +32,6 @@
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cardoso-St&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-St&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
 </p>
 
 ---

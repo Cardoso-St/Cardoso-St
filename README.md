@@ -24,7 +24,6 @@
   <img alt="MySQL" src="https://skillicons.dev/icons?i=mysql" width="60" height="60"/>
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
-  <img alt="Lovable" src="https://skillicons.dev/icons?i=python" width="60" height="60"/>
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
 </p>
 

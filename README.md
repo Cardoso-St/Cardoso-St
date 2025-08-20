@@ -1,5 +1,5 @@
 <!-- Título centralizado -->
-<h3 align="center">💻 Estudante de TI | 🤖 Apaixonado por tecnologia | 🚀 Futuro desenvolvedor</h3>
+<h1 align="center">💻 Estudante de TI | 🤖 Apaixonado por tecnologia | 🚀 Futuro desenvolvedor</h1>
 
 ---
 

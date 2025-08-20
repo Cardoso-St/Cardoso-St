@@ -1,14 +1,14 @@
 <!-- Título centralizado -->
-<h1 align="center">💻 Estudante de TI | 🤖 Apaixonado por tecnologia | 🚀 Futuro desenvolvedor</h1>
+<h1 align="center">💻 Estudante de TI | 🚀 Futuro desenvolvedor</h1>
 
 ---
 
-## 👨‍💻 Sobre mim
+<h3## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Tecnologia da Informação** no Sesi/Senai  
 - 🤖 Ex-competidor de **Robótica**  
 - 🚀 Desenvolvendo projetos em **HTML, CSS, JavaScript, React, Node.js, Java, MySQL**  
 - 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web  
-- 🌐 Portfólio: [portfolio-cardoso.vercel.app](https://portfolio-cardoso.vercel.app)
+- 🌐 Portfólio: [portfolio-cardoso.vercel.app](https://portfolio-cardoso.vercel.app)/>
 
 ---
 

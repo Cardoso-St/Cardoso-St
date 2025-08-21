@@ -6,8 +6,8 @@
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Tecnologia da Informação** no Sesi/Senai  
 - 🤖 Ex-competidor de **Robótica**  
-- 🚀 Desenvolvendo projetos em **HTML, CSS, JavaScript, React, Node.js, Java, MySQL**  
-- 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web  
+- 🚀 Desenvolvendo projetos em **JavaScript, React, Node.js, Java, MySQL**  
+- 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web
 - 🌐 Portfólio: [portfolio-cardoso.vercel.app](https://portfolio-cardoso.vercel.app)
 
 ---

@@ -32,6 +32,7 @@
   <img alt="Git" src="https://skillicons.dev/icons?i=git" width="60" height="60"/>
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
+  <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
 </p>
 
 ---

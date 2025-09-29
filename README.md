@@ -38,7 +38,7 @@
 
 ## 🌎 Onde me encontrar
 <p align="center">
-  <a href="https://www.linkedin.com/in/steven-cardoso-12345678/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/steven-cardoso-b351aa2bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Cardoso-St"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.instagram.com/stevencardoso/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://portfolio-cardoso.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-Vercel-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>

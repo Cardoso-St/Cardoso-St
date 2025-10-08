@@ -6,7 +6,7 @@
 ## 👨‍💻 Sobre mim
 - 🎓 Estudante de **Tecnologia da Informação** no Sesi/Senai  
 - 🤖 Ex-competidor de **Robótica**  
-- 🚀 Desenvolvendo projetos em **JavaScript, React, Node.js, Java, MySQL**  
+- 🚀 Desenvolvendo projetos em **JavaScript, React, Node.js, Java, MySQL, Jest**  
 - 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web
 
 ---
@@ -32,6 +32,7 @@
   <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="60" height="60"/>
   <img alt="Vercel" src="https://skillicons.dev/icons?i=vercel" width="60" height="60"/>
   <img alt="Cypress" src="https://skillicons.dev/icons?i=cypress" width="60" height="60"/>
+  <img alt="Jest" src="https://skillicons.dev/icons?i=jest" width="60" height="60"/>
 </p>
 
 ---

@@ -4,10 +4,10 @@
 ---
 
 ## 👨‍💻 Sobre mim
-- 🎓 Estudante de **Tecnologia da Informação** no Sesi/Senai  
-- 🤖 Ex-competidor de **Robótica**  
-- 🚀 Desenvolvendo projetos em **JavaScript, React, Node.js, Java, MySQL, Jest**  
-- 🎯 Em busca da **primeira experiência profissional** em desenvolvimento web
+- 🎓 Técnico em informática para internet
+- 🎓 Graduando em Engenharia de Software
+- 🤖 Ex-competidor de Robótica
+- 🚀 Desenvolvendo projetos em JavaScript, React, Node.js, Java, MySQL, Jest
 
 ---
 
